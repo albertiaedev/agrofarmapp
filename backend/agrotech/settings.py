@@ -38,11 +38,15 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
 
-    #CUSTOM APPS
+    # CUSTOM APPS
     'aves_poultry',
     'bovinos_cattle',
     'cerdos_swine',
     'equinos_equine',
+
+    # EXTERNAL PACKAGES
+    'rest_framework',
+    'corsheaders',
 ]
 
 MIDDLEWARE = [
