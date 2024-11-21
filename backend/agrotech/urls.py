@@ -18,5 +18,12 @@ from django.contrib import admin
 from django.urls import path
 
 urlpatterns = [
+
+    # ADMIN PANNEL SUPERUSER
     path('admin/', admin.site.urls),
+    '''
+    Username: albertiaedev
+    Password: agrotech
+    '''
+    
 ]
