@@ -27,10 +27,10 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
 
     # CUSTOM APPS
-    'aves_poultry',
-    'bovinos_cattle',
-    'cerdos_swine',
-    'equinos_equine',
+    'aves',
+    'bovinos',
+    'cerdos',
+    'equinos',
 
     # EXTERNAL PACKAGES
     'rest_framework',
