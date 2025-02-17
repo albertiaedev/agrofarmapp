@@ -54,7 +54,7 @@ CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000",
 ]
 
-ROOT_URLCONF = 'agrotech.urls'
+ROOT_URLCONF = 'fincahub.urls'
 
 TEMPLATES = [
     {
@@ -72,7 +72,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'agrotech.wsgi.application'
+WSGI_APPLICATION = 'fincahub.wsgi.application'
 
 
 # Database
