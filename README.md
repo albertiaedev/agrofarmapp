@@ -1,13 +1,13 @@
-# AgroTech
+# FincaHub: el software más efectivo para un mejor manejo de su finca.
 
-AgroTech is a software for breeding management that allows farmers to manage multiple crops in their farms 🤠
+FincaHub es el software ideal para administrar su finca de una manera sencilla y efectiva 🤠
 
-It includes modules for:
+Nuestro sistema contiene módulos para:
 
-### 🐔 Poultry
+### 🐔 Aves
 
-### 🐮 Cattle
+### 🐮 Bovinos 
 
-### 🐷 Swine
+### 🐷 Cerdos 
 
-### 🐴 Equine
+### 🐴 Equinos
