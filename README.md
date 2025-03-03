@@ -1,8 +1,17 @@
-# FincaHub: el software más efectivo para un mejor manejo de su finca.
+# Open Source API Connector
 
-FincaHub es el software ideal para administrar su finca de una manera sencilla y efectiva 🤠
+## Description:
 
-Nuestro sistema contiene módulos para:
+
+This API connects the backend server with the frontend server.
+
+
+Run backend server at 127.0.0.1:8000 (localhost) with the command ```python3 manage.py runserver```.
+
+
+Run frontend server at 127.0.0.1:3000 (localhost) with the command ```npm run dev```.
+
+Backend written in Python built with Django. Frontend written in TypeScript built with Next.js.
 
 ### 🐔 Aves
 
@@ -11,3 +20,6 @@ Nuestro sistema contiene módulos para:
 ### 🐷 Cerdos 
 
 ### 🐴 Equinos
+
+<hr>
+
